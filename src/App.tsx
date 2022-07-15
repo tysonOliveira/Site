@@ -12,6 +12,7 @@ export function App() {
       <Header />
       <Projects />
       <Footer />
+      
     </div>
   )
 }

@@ -1,3 +1,4 @@
+import { Post } from './Post';
 import style from './Projects.module.css';
 
 export function Projects() {
@@ -10,7 +11,7 @@ export function Projects() {
       </div>
 
         <div className={style.projects}>
-
+          <Post />
         </div>
 
         <div>
